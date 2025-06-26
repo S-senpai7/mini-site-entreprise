@@ -1,4 +1,4 @@
-# mini-site-entreprise# Mini-Site de Présentation d’Entreprise
+Mini-Site de Présentation d’Entreprise
 
  Stratégie de Branches Git
 
