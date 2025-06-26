@@ -36,5 +36,5 @@ git push origin main
 
 ##  Auteur
 
-- Nom : À compléter
-- Lien GitHub : À compléter
+- Nom : Sitcheping anthony
+- Lien GitHub : https://github.com/S-senpai7/mini-site-entreprise
