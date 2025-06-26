@@ -1,6 +1,6 @@
 # mini-site-entreprise# Mini-Site de Présentation d’Entreprise
 
-## 🔄 Stratégie de Branches Git
+ Stratégie de Branches Git
 
 - **main** : Code stable final prêt à la mise en ligne.
 - **dev** : Intégration globale.
@@ -9,14 +9,14 @@
 - **feature/css-theme** : Design CSS (charte graphique, responsive).
 - **feature/js-interactions** : Interactions dynamiques (carrousel, scroll, menu mobile).
 
-## 🔧 Étapes Suivies
+ Étapes Suivies
 
 1. Initialisation du dépôt avec `git init`.
 2. Création des branches avec `git branch`.
 3. Développement des fonctionnalités sur `feature/*`.
 4. Fusion dans `test/*`, puis `dev`, et enfin `main`.
 
-## 🛠️ Commandes Git utilisées
+ Commandes Git utilisées
 
 ```bash
 git init
@@ -28,13 +28,13 @@ git merge feature/html-structure
 git push origin main
 ```
 
-## Structure du projet
+Structure du projet
 
 - `index.html`
 - `css/style.css`
 - `js/script.js`
 
-##  Auteur
+  Auteur
 
 - Nom : Sitcheping anthony
 - Lien GitHub : https://github.com/S-senpai7/mini-site-entreprise
